@@ -188,7 +188,7 @@
 - How to help troubleshoot signal issues
 - How to diagnose dead cables
     - How to build/repair cables
-- How to not talk about right wing anarchism to paying customers
+- How to not talk about anarchism to paying customers
 - How to safely seat mics in shock mounts
     - Fixing shock mounts with slipped bands
 - How to avoid damaging equipment (for real tho)
